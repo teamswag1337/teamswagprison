@@ -1,1 +1,4 @@
-getgenv().quote = "Hi!"
+local quote = [[
+omg sex
+]]
+return quote
